@@ -1,0 +1,8 @@
+Object 73 detected with confidence 0.5268175601959229 at [0.00555524 0.00617391 0.9963541  0.9970216 ]
+Object 72 detected with confidence 0.5045042037963867 at [0.00602108 0.         0.99437493 1.        ]
+Object 73 detected with confidence 0.5778111219406128 at [0.00540087 0.00632593 0.9956254  0.9964105 ]
+Object 72 detected with confidence 0.5150920152664185 at [0.00517255 0.         0.9944018  1.        ]
+Object 73 detected with confidence 0.5481425523757935 at [0.00456488 0.00739583 0.99678326 0.9949249 ]
+Object 72 detected with confidence 0.5474494099617004 at [0.00676385 0.         0.9937755  1.        ]
+Object 73 detected with confidence 0.5751413702964783 at [0.00649419 0.00682735 0.9955058  0.9947015 ]
+Object 72 detected with confidence 0.5318263173103333 at [0.         0.01198414 1.         1.        ]

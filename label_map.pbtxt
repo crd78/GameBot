@@ -1,0 +1,36 @@
+item {
+  id: 1
+  name: 'minerais_t4'
+}
+item {
+  id: 1
+  name: 'herbe_t3'
+}
+item {
+  id: 1
+  name: 'minerais_t3'
+}
+item {
+  id: 1
+  name: 'minerais_t2'
+}
+item {
+  id: 1
+  name: 'herbe_t2'
+}
+item {
+  id: 1
+  name: 'herbe_t3'
+}
+item {
+  id: 1
+  name: 'herbe_t4'
+}
+item {
+  id: 1
+  name: 'PIERRE'
+}
+item {
+  id: 2
+  name: 'ENNEMIE'
+}
